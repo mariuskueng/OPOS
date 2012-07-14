@@ -1,0 +1,11 @@
+3000;Wareneinkauf;
+4000;Löhne;
+4100;Mieten;
+4200;Zinsen;
+4400;Abschreibungen;
+4600;Strom;
+9000;Holzaufwand;
+10000;blubb;
+7000;Holzaufwand;
+6666;wurstaufwand;
+4888;blubb;

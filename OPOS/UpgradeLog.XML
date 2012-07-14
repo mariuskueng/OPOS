@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="OPOS">
+</Property><Property Name="Projektmappendatei" Value="C:\Users\Marius Küng\Documents\Marius\Schule\IMS\Informatik\Programmieren\Objektorientierte Programmierung\OPOS\OPOS\OPOS.sln">
+</Property><Property Name="Benutzeroptionendatei" Value="C:\Users\Marius Küng\Documents\Marius\Schule\IMS\Informatik\Programmieren\Objektorientierte Programmierung\OPOS\OPOS\OPOS.suo">
+</Property><Property Name="Date" Value="Montag, 6. Juni 2011">
+</Property><Property Name="Time" Value="10:56">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="OPOS.sln" Description="Datei wurde erfolgreich als &quot;C:\Users\Marius Küng\Documents\Marius\Schule\IMS\Informatik\Programmieren\Objektorientierte Programmierung\OPOS\OPOS\OPOS.sln.old&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="" Source="OPOS.suo" Description="Datei wurde erfolgreich als &quot;C:\Users\Marius Küng\Documents\Marius\Schule\IMS\Informatik\Programmieren\Objektorientierte Programmierung\OPOS\OPOS\OPOS.suo.old&quot; gesichert">
+</Event><Event ErrorLevel="0" Project="OPOS" Source="OPOS\OPOS.vcproj" Description="Converting project file 'C:\Users\Marius Küng\Documents\Marius\Schule\IMS\Informatik\Programmieren\Objektorientierte Programmierung\OPOS\OPOS\OPOS\OPOS.vcproj'.">
+</Event><Event ErrorLevel="1" Project="OPOS" Source="OPOS\OPOS.vcproj" Description="VCWebServiceProxyGeneratorTool is no longer supported. The tool has been removed from your project settings.">
+</Event><Event ErrorLevel="0" Project="OPOS" Source="OPOS\OPOS.vcproj" Description="Done converting to new project file 'C:\Users\Marius Küng\Documents\Marius\Schule\IMS\Informatik\Programmieren\Objektorientierte Programmierung\OPOS\OPOS\OPOS\OPOS.vcxproj'.">
+</Event><Event ErrorLevel="3" Project="OPOS" Source="OPOS\OPOS.vcproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="OPOS.sln" Description="Die Projektmappe wurde erfolgreich konvertiert.">
+</Event><Event ErrorLevel="3" Project="" Source="OPOS.sln" Description="Converted">
+</Event></UpgradeLog>

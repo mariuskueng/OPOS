@@ -1,0 +1,11 @@
+1;A AG;
+2;B AG;
+3;C AG;
+4;HeidiMilch;
+5;Migros;
+6;Coop;
+7;IBM;
+8;adfsasdf;
+20;ursel;
+5000;jhjgjhg;
+5;jkll;
